@@ -1,37 +1,90 @@
-# 👋 Olá! Eu sou Anderson Ferreira Ananias  
+# 👨‍💻 Anderson Ferreira Ananias
 
-💻 Desenvolvedor em constante evolução, unindo **tecnologia, filosofia e propósito**.  
-🎯 Foco em **Python**, **Power BI** e **AWS**, aplicando lógica, dados e pensamento crítico para criar soluções que impactam positivamente pessoas e negócios.  
-
----
-
-## 🚀 Sobre mim  
-📘 Autor de *[Mente Leve, Vida Plena](https://www.amazon.com.br/dp/B0FF3J9RPV)* — um guia de autoconhecimento e equilíbrio para o dia a dia.  
-💡 Apaixonado por unir **ciência de dados, desenvolvimento Full Stack** e **reflexões filosóficas** no processo criativo.  
-🌎 Baseado em **São Paulo, Brasil**.  
-🧠 Interesso-me por **IA aplicada à escrita, design e automação**.
+🎯 **Desenvolvedor Full Stack em formação | Python • Banco de Dados • AWS • Engenharia de Software**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, PostegreSQL, JavaScript  
-- **Análise de Dados:** Power BI, Pandas, NumPy  
-- **Cloud & DevOps:** AWS, GitHub Actions  
-- **Outros:** UML, Engenharia de Software, APIs REST  
+## 💡 Pensamento Computacional
+Desenvolvimento de raciocínio lógico e estruturado para resolução de problemas complexos através da **decomposição**, **reconhecimento de padrões**, **abstração** e **criação de algoritmos**.  
+Aplicação prática em automação, análise de dados e desenvolvimento de soluções escaláveis.
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Anderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=dracula)
+## 🗄️ Banco de Dados
+Experiência em **modelagem, normalização e integração** de bancos de dados relacionais e não relacionais.  
+Uso de **PostgreSQL, MySQL** e integração com aplicações **Python**.  
+Foco em **otimização de consultas**, **segurança da informação** e **boas práticas de administração** de dados.
 
 ---
 
-## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/anderson-ferreira-ananias-power-bi-python-full-stack-filosofia-93b44235a/)  
-- 📘 [Livro na Amazon](https://www.amazon.com.br/dp/B0FF3J9RPV)  
-- 📍 São Paulo — GMT-3  
+## ☁️ Computação em Nuvem com Amazon AWS
+Utilização dos principais serviços da **AWS (EC2, S3, RDS, Lambda, IAM)** para implantação e escalabilidade de aplicações.  
+Experiência na criação de ambientes seguros, automatização de deploys e **monitoramento de recursos em nuvem**, seguindo práticas de **arquitetura eficiente e custo-benefício**.
 
 ---
 
-> “A tecnologia só faz sentido quando serve à evolução humana.”  
-> — *Anderson Ferreira Ananias*
+## 🧩 Lógica, Algoritmos e Programação de Computadores
+Domínio dos fundamentos de **lógica e estrutura de algoritmos**, aplicados à **programação em Python**.  
+Desenvolvimento de programas **modulares, eficientes e escaláveis**, aplicando **estruturas de controle, funções, coleções e POO (Programação Orientada a Objetos)**.
+
+---
+
+## 🧠 Paradigmas em Desenvolvimento de Software
+Aplicação dos principais paradigmas — **imperativo, orientado a objetos, funcional e declarativo** — para construção de softwares limpos e reutilizáveis.  
+Foco em **boas práticas de engenharia de software**, **versionamento com Git/GitHub**, e **integração contínua (CI/CD)**.
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+</p>
+
+---
+
+## 📚 Em Desenvolvimento Contínuo
+- 🐍 **Python Avançado** (modulação, bibliotecas e automação)  
+- 🧠 **Engenharia de Software e Padrões de Projeto**  
+- ☁️ **Arquitetura em Nuvem com AWS**  
+- 🧩 **Desenvolvimento Full Stack e APIs RESTful**
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson1280&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 📫 Contato
+📍 São Paulo - Brasil  
+📧 **undersomm@hotmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a/)  
+💻 [GitHub](https://github.com/Anderson1280)
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=Anderson1280&label=👁️%20Visualizações%20do%20perfil&color=0e75b6&style=flat)
+
+---
+
+⭐ *“A tecnologia é a ponte entre o pensamento e a criação — e o código é o caminho que nos faz atravessá-la.”*  
+— **Anderson Ferreira Ananias**
