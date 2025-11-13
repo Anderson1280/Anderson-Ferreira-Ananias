@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL, JavaScript  
+- **Linguagens:** Python, PostegreSQL, JavaScript  
 - **Análise de Dados:** Power BI, Pandas, NumPy  
 - **Cloud & DevOps:** AWS, GitHub Actions  
 - **Outros:** UML, Engenharia de Software, APIs REST  
