@@ -19,8 +19,8 @@ Foco em **otimização de consultas**, **segurança da informação** e **boas p
 
 ---
 
-### ☁️ Computação em Nuvem com Amazon AWS
-Utilização dos principais serviços da **AWS (EC2, S3, RDS, Lambda, IAM)** para implantação e escalabilidade de aplicações.  
+### ☁️ Computação em Nuvem (AWS, Azure, GCP)
+Compreensão dos conceitos de Cloud Computing e das principais plataformas (AWS, Azure, GCP). Foco na utilização dos serviços da **AWS (EC2, S3, RDS, Lambda, IAM)** para implantação e escalabilidade de aplicações.  
 Experiência na criação de ambientes seguros, automatização de deploys e **monitoramento de recursos em nuvem**, seguindo práticas de **arquitetura eficiente e custo-benefício**.
 
 ---
@@ -64,7 +64,7 @@ Esses cursos consolidaram minha base em **lógica de programação, análise de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm" title="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" width="45" height="45" alt="Power BI" title="Power BI"/>
 </p>
