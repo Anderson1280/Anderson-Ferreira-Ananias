@@ -48,16 +48,16 @@ Esses cursos consolidaram minha base em **lógica de programação, análise de 
 
 ## ⚙️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45" title="Amazon AWS"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/452/power-bi.png" width="45" height="45" title="Power BI"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@ Esses cursos consolidaram minha base em **lógica de programação, análise de 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson1280&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
@@ -94,9 +94,4 @@ Esses cursos consolidaram minha base em **lógica de programação, análise de 
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=Anderson1280&label=👁️%20Visualizações%20do%20perfil&color=0e75b6&style=flat)
-
----
-
-⭐ *“A tecnologia é a ponte entre o pensamento e a criação — e o código é o caminho que nos faz atravessá-la.”*  
-— **Anderson Ferreira Ananias**
+![visitors](https://komarev.com/ghpvc/?usern)
