@@ -35,6 +35,17 @@ Foco em **boas práticas de engenharia de software**, **versionamento com Git/Gi
 
 ---
 
+## 🎓 Formação Profissional
+
+🎓 **SENAI - Serviço Nacional de Aprendizagem Industrial**  
+- 🐍 **Fundamentos em Python**  
+- 💻 **Programação em Python**  
+- 📊 **Microsoft Power BI**  
+
+Esses cursos consolidaram minha base em **lógica de programação, análise de dados e desenvolvimento de aplicações Python**, integrando conhecimento técnico com práticas modernas de desenvolvimento e visualização de dados.
+
+---
+
 ## ⚙️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /> 
@@ -46,6 +57,7 @@ Foco em **boas práticas de engenharia de software**, **versionamento com Git/Gi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" />
 </p>
 
 ---
