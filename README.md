@@ -98,20 +98,20 @@ Formação com foco em **lógica de programação, análise de dados e aplicaç�
 
 ## 📊 Minhas Estatísticas do GitHub
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight&hide_border=true" />
 </p>
-
-## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,aws,docker,git,github,vscode" alt="Skills" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 ## 📫 Contato
 📍 São Paulo – Brasil  
