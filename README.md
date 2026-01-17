@@ -96,10 +96,6 @@ Formação com foco em **lógica de programação, análise de dados e aplicaç�
 
 ## 📊 GitHub Stats
 
-## 📊 Minhas Estatísticas do GitHub
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
@@ -111,6 +107,7 @@ Formação com foco em **lógica de programação, análise de dados e aplicaç�
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ## 📫 Contato
