@@ -97,13 +97,12 @@ Formação com foco em **lógica de programação, análise de dados e aplicaç�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
