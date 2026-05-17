@@ -1,121 +1,135 @@
-# 👨‍💻 Anderson Ferreira Ananias
+# Anderson Ferreira Ananias
 
-## 🎯 Desenvolvedor Python Júnior | Back-end & Dados
+<div align="center">
 
-**Python • APIs REST • Banco de Dados • Cloud (AWS) • Power BI**
+### Desenvolvedor Python Júnior | Back-end | Dados | Full Stack em Formação
 
----
+Python • APIs REST • PostgreSQL • MySQL • AWS • Power BI • Engenharia de Software
 
-## 💼 Perfil Profissional
-Desenvolvedor Python Júnior com foco em **Back-end, APIs REST e análise de dados**.  
-Experiência prática em desenvolvimento de aplicações com **Python**, integração com **bancos de dados relacionais**, versionamento com **Git/GitHub** e fundamentos de **Cloud Computing (AWS)**.
-
-Perfil analítico, organizado e em constante evolução, com forte base em **pensamento computacional, lógica de programação e boas práticas de engenharia de software**.
+</div>
 
 ---
 
-## 🧠 Pensamento Computacional
-Aplicação prática de:
-- Decomposição de problemas  
-- Reconhecimento de padrões  
-- Abstração  
-- Construção de algoritmos  
+## 🚀 Sobre mim
 
-Utilizado em **automação, análise de dados e desenvolvimento de soluções escaláveis em Python**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Estácio de Sá**, com foco em desenvolvimento Back-end utilizando Python, banco de dados, integração de sistemas e soluções em nuvem.
 
----
-
-## 🗄️ Banco de Dados
-- Modelagem e normalização de dados  
-- Integração com aplicações Python  
-- Experiência com **PostgreSQL** e **MySQL**  
-- Boas práticas de consultas, integridade e segurança de dados  
-
----
-
-## ☁️ Computação em Nuvem (AWS)
-Conhecimento prático em:
-- **EC2, S3, RDS, IAM e Lambda**
-- Conceitos de deploy, escalabilidade e segurança
-- Noções de custo-benefício e arquitetura em nuvem
-
-> Experiência focada em **AWS** (conceitos e prática orientada a projetos).
-
----
-
-## 🧩 Programação e Algoritmos
-- Python (estruturas de controle, funções e coleções)
-- Programação Orientada a Objetos (POO)
-- Escrita de código limpo, modular e reutilizável
-- Fundamentos de APIs REST
+Atualmente expandindo competências em desenvolvimento Full Stack, arquitetura de software e engenharia de sistemas.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-### **Universidade Estácio de Sá**
-**Análise e Desenvolvimento de Sistemas**  
+### Universidade Estácio de Sá
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 📍 Em andamento
 
----
+### Disciplinas atuais (2026)
 
-### **SENAI – Serviço Nacional de Aprendizagem Industrial**
-- 🐍 Fundamentos em Python  
-- 💻 Programação em Python  
-- 📊 Microsoft Power BI  
+#### Desenvolvimento e Arquitetura
+- Desenvolvimento Full Stack
+- Engenharia de Software
+- Sistemas de Informação e Sociedade
 
-Formação com foco em **lógica de programação, análise de dados e aplicações práticas**.
+#### Modelagem e Análise
+- UML para Modelagem do Domínio
+- Modelagem de Sistemas em UML
 
----
-
-## ⚙️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-</p>
+#### Banco de Dados e Persistência
+- Integração de Páginas Web com Banco de Dados
+- Persistência de Dados com Python
 
 ---
 
-## 📚 Em Desenvolvimento Contínuo
-- Python Avançado e automação
-- APIs REST com FastAPI
-- Banco de dados e SQL avançado
-- Arquitetura em nuvem com AWS
-- Engenharia de Software e boas práticas
+## 📚 Formação Complementar
+
+### SENAI
+
+- Fundamentos em Python
+- Programação em Python
+- Microsoft Power BI
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Stack Tecnológica
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+### Linguagens
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight&hide_border=true" />
-</p>
+### Back-end
+- APIs REST
+- Programação Orientada a Objetos
+- Automação de Processos
+- FastAPI *(em desenvolvimento)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Banco de Dados
+- PostgreSQL
+- MySQL
+- Modelagem Relacional
+- SQL Avançado
+- Persistência de Dados
 
+### Cloud
+- AWS EC2
+- AWS S3
+- AWS RDS
+- AWS IAM
+- AWS Lambda
 
+### Ferramentas
+- Git
+- GitHub
+- Linux
+- PyCharm
+- VS Code
+
+---
+
+## 🧠 Pensamento Computacional
+
+- Decomposição de problemas
+- Reconhecimento de padrões
+- Abstração
+- Construção de algoritmos
+
+Aplicado em automação, análise de dados e desenvolvimento de soluções escaláveis.
+
+---
+
+## 📌 Projetos em Destaque
+
+### Mega Sorte IA
+Sistema de análise inteligente e automação de dados.
+
+### Book Formatter AI
+Ferramenta Python para formatação automatizada de livros padrão Amazon KDP.
+
+### Dashboard Mente Leve, Vida Plena
+Dashboard Power BI para análise de métricas e vendas.
+
+---
+
+## 📈 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Contato
-📍 São Paulo – Brasil  
-📧 **undersomm@hotmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a/)  
-💻 [GitHub](https://github.com/Anderson1280)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anderson1280&color=blue"/>
-</p>
+📍 São Paulo, Brasil  
+📧 undersomm@hotmail.com  
+
+---
+
+<div align="center">
+
+### "Construindo soluções através de código, dados e arquitetura."
+
+</div>
