@@ -87,7 +87,7 @@ Projeto envolvendo:
 
 ---
 
-### Dashboard Mente Leve, Vida Plena
+### Dashboard curso SENAI
 Dashboard em Power BI para análise de métricas e oportunidades de vendas.
 
 **Tecnologias:** Power BI, análise de dados e visualização.
