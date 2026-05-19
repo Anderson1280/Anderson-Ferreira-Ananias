@@ -6,21 +6,34 @@
 
 📍 São Paulo, Brasil  
 📧 undersomm@hotmail.com  
-💼 LinkedIn: [anderson-ferreira-ananias](https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a)  
-💻 GitHub: [Anderson1280](https://github.com/Anderson1280)  
+💼 LinkedIn: https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a  
+💻 GitHub: https://github.com/Anderson1280  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor focado em **Back-end com Python**, integração de sistemas, banco de dados e computação em nuvem. Bacharel em Filosofia e atualmente graduando em **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, unifico o pensamento lógico, crítico e estruturado com a engenharia de software para construir soluções escaláveis.
+Sou desenvolvedor focado em **Back-end com Python**, integração de sistemas, banco de dados e computação em nuvem.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá e **Filosofia** pelo Centro Universitário São Camilo, combinando pensamento analítico, lógica e engenharia de software.
 
 Atualmente focado em:
-- Desenvolvimento de APIs robustas e performáticas (FastAPI / REST).
-- Modelagem, otimização e persistência de dados (PostgreSQL / MySQL).
-- Arquitetura de Nuvem e práticas modernas de deploy/infraestrutura.
 
-Também curso o **CS50 – Introduction to Computer Science (Harvard University)**, solidificando fundamentos robustos em algoritmos, estruturas de dados avançadas e resolução de problemas complexos.
+- Desenvolvimento de APIs robustas com **FastAPI** e arquitetura REST  
+- Modelagem e persistência de dados com **PostgreSQL** e **MySQL**  
+- Cloud Computing e fundamentos de infraestrutura moderna  
+
+Também curso:
+
+**CS50’s Introduction to Artificial Intelligence with Python — Harvard University / edX**
+
+Fortalecendo conhecimentos em:
+
+- algoritmos  
+- inteligência artificial  
+- machine learning fundamentals  
+- estruturas de dados  
+- resolução de problemas  
 
 ---
 
@@ -37,54 +50,76 @@ Também curso o **CS50 – Introduction to Computer Science (Harvard University)
 
 ### Cloud & Infraestrutura
 - AWS
-- Google Cloud Platform (GCP)
+- Google Cloud Platform
 - Microsoft Azure
-- Git / GitHub / Linux
 
-### Análise de Dados
-- Microsoft Power BI (Modelagem de dados e DAX)
+### Ferramentas
+- Git
+- GitHub
+- Linux
+- PyCharm
+- VS Code
+
+### Dados & BI
+- Microsoft Power BI
+- Modelagem de Dados
+- DAX
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🎲 Mega Sorte IA
-Sistema inteligente para análise preditiva e automação de dados históricos. 
-- **O que faz:** Processa dados massivos utilizando Machine Learning para gerar insights e explicações automatizadas via modelos de linguagem natural.
-- **Tecnologias:** Python, FastAPI, Machine Learning, Integração de LLMs e PostgreSQL.
+### Mega Sorte IA
+Sistema de automação e análise inteligente de dados.
 
-### 📘 Mente Leve, Vida Plena (Livro & Dashboard)
-Projeto autoral publicado na Amazon KDP que uniu gerenciamento de produto digital e inteligência de negócios.
-- **Estratégia:** Autoria, estruturação editorial e distribuição via Amazon.
-- **BI & Analytics:** Desenvolvimento de um dashboard completo em Power BI conectado às métricas de vendas para monitoramento de performance e identificação de oportunidades de mercado.
+**Tecnologias:** Python, automação, análise de dados e banco de dados.
+
+---
+
+### Mente Leve, Vida Plena
+Autor do livro **Mente Leve, Vida Plena**, publicado na Amazon KDP.
+
+Projeto envolvendo:
+
+- autoria e estruturação editorial  
+- publicação digital  
+- organização de produto digital  
+
+---
+
+### Dashboard Mente Leve, Vida Plena
+Dashboard em Power BI para análise de métricas e oportunidades de vendas.
+
+**Tecnologias:** Power BI, análise de dados e visualização.
 
 ---
 
 ## 🎓 Formação
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Estácio de Sá *(Em andamento)*
-- **Bacharelado em Filosofia** — Centro Universitário São Camilo *(Em andamento)*
-- **CS50 Introduction to Computer Science** — Harvard University *(Em andamento)*
-- **Formações Profissionalizantes (Python e Power BI)** — SENAI
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade Estácio de Sá *(em andamento)*  
+- Graduação em Filosofia — Centro Universitário São Camilo *(em andamento)*  
+- CS50’s Introduction to Artificial Intelligence with Python — Harvard University / edX *(em andamento)*  
+- Formação em Python e Power BI — SENAI  
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco atuar de forma focada e consultiva em posições como:
-- Desenvolvedor Python / Back-end Engineer
-- Engenheiro de Software / Estagiário em Engenharia de Software
-- Analista de Dados / Cloud Support Analyst
+Busco oportunidades como:
+
+- Python Developer  
+- Backend Developer  
+- Software Engineering Intern  
+- Data Analyst  
+- Cloud Support Analyst  
 
 ---
 
 ## 📊 Estatísticas GitHub
 
-### Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1280&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson1280&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=github_dark)
 
 ---
 
