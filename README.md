@@ -1,62 +1,33 @@
 # Olá, eu sou Anderson Ferreira Ananias 👋
 
-## Python Developer | Backend | Cloud | Data Analytics
+## Python Developer | Backend | Cloud & Data Analytics
 
-**Python • REST APIs • PostgreSQL • MySQL • AWS • GCP • Azure • Power BI**
+**Python • FastAPI • REST APIs • PostgreSQL • MySQL • AWS • GCP • Azure • Power BI**
 
 📍 São Paulo, Brasil  
 📧 undersomm@hotmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a  
-💻 GitHub: https://github.com/Anderson1280  
+💼 LinkedIn: [anderson-ferreira-ananias](https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a)  
+💻 GitHub: [Anderson1280](https://github.com/Anderson1280)  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, com foco em desenvolvimento **Back-end com Python**, integração de sistemas, banco de dados e computação em nuvem.
+Sou desenvolvedor focado em **Back-end com Python**, integração de sistemas, banco de dados e computação em nuvem. Bacharel em Filosofia e atualmente graduando em **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, unifico o pensamento lógico, crítico e estruturado com a engenharia de software para construir soluções escaláveis.
 
-Atualmente desenvolvo competências em:
+Atualmente focado em:
+- Desenvolvimento de APIs robustas e performáticas (FastAPI / REST).
+- Modelagem, otimização e persistência de dados (PostgreSQL / MySQL).
+- Arquitetura de Nuvem e práticas modernas de deploy/infraestrutura.
 
-- Desenvolvimento Full Stack  
-- Arquitetura de Software  
-- Persistência de Dados  
-- Engenharia de Sistemas  
-- APIs REST  
-- Automação  
-- Cloud Computing  
-
-Também curso **CS50 – Introduction to Computer Science (Harvard University)**, fortalecendo fundamentos em:
-
-- Algoritmos  
-- Estruturas de Dados  
-- Abstração Computacional  
-- Resolução de Problemas  
-- Desenvolvimento Web  
-
-Atuo profissionalmente com suporte técnico e certificação digital.
-
-Minha formação complementar em Filosofia fortalece pensamento crítico, lógica e comunicação analítica.
+Também curso o **CS50 – Introduction to Computer Science (Harvard University)**, solidificando fundamentos robustos em algoritmos, estruturas de dados avançadas e resolução de problemas complexos.
 
 ---
 
-## 🎓 Formação
+## 💻 Stack & Tecnologias
 
-### Universidade Estácio de Sá
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** *(em andamento)*
-
-### Formação complementar
-- SENAI — Fundamentos em Python  
-- SENAI — Programação em Python  
-- SENAI — Microsoft Power BI  
-- Harvard University — CS50 *(em andamento)*  
-- Centro Universitário São Camilo — Filosofia *(em andamento)*  
-
----
-
-## 💻 Stack
-
-### Linguagens
-- Python
+### Linguagens & Frameworks
+- Python (FastAPI)
 - JavaScript
 - SQL
 
@@ -64,70 +35,56 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, lógic
 - PostgreSQL
 - MySQL
 
-### Cloud
+### Cloud & Infraestrutura
 - AWS
-- Google Cloud Platform
+- Google Cloud Platform (GCP)
 - Microsoft Azure
+- Git / GitHub / Linux
 
-### Ferramentas
-- Git
-- GitHub
-- Linux
-- PyCharm
-- VS Code
+### Análise de Dados
+- Microsoft Power BI (Modelagem de dados e DAX)
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em Destaque
 
-### Mega Sorte IA
-Projeto de automação e análise inteligente de dados.
+### 🎲 Mega Sorte IA
+Sistema inteligente para análise preditiva e automação de dados históricos. 
+- **O que faz:** Processa dados massivos utilizando Machine Learning para gerar insights e explicações automatizadas via modelos de linguagem natural.
+- **Tecnologias:** Python, FastAPI, Machine Learning, Integração de LLMs e PostgreSQL.
 
-**Tecnologias:** Python, automação e análise de dados.
-
-### Mente Leve, Vida Plena
-Autor do livro **Mente Leve, Vida Plena**, publicado na Amazon.
-
-Projeto envolvendo:
-- escrita e estruturação editorial  
-- publicação digital via Amazon KDP  
-- organização de conteúdo  
-- estratégia de produto digital  
-
-### Dashboard Mente Leve, Vida Plena
-Dashboard desenvolvido em Power BI para análise de métricas, performance e oportunidades de vendas.
-
-**Tecnologias:** Power BI, análise de dados e visualização.
+### 📘 Mente Leve, Vida Plena (Livro & Dashboard)
+Projeto autoral publicado na Amazon KDP que uniu gerenciamento de produto digital e inteligência de negócios.
+- **Estratégia:** Autoria, estruturação editorial e distribuição via Amazon.
+- **BI & Analytics:** Desenvolvimento de um dashboard completo em Power BI conectado às métricas de vendas para monitoramento de performance e identificação de oportunidades de mercado.
 
 ---
 
-## 📚 Atualmente estudando
-- Python Avançado  
-- FastAPI  
-- Arquitetura Full Stack  
-- Banco de Dados Avançado  
-- Cloud Architecture  
-- Engenharia de Software  
+## 🎓 Formação
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Estácio de Sá *(Em andamento)*
+- **Bacharelado em Filosofia** — Centro Universitário São Camilo *(Em andamento)*
+- **CS50 Introduction to Computer Science** — Harvard University *(Em andamento)*
+- **Formações Profissionalizantes (Python e Power BI)** — SENAI
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidades como:
-
-- Desenvolvedor Python  
-- Desenvolvedor Back-end  
-- Analista de Dados  
-- Cloud Support Analyst  
-- Estágio em Engenharia de Software  
+Busco atuar de forma focada e consultiva em posições como:
+- Desenvolvedor Python / Back-end Engineer
+- Engenheiro de Software / Estagiário em Engenharia de Software
+- Analista de Dados / Cloud Support Analyst
 
 ---
+
 ## 📊 Estatísticas GitHub
+
+### Estatísticas GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1280&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson1280&theme=github_dark)
-
 
 ---
 
