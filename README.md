@@ -122,12 +122,12 @@ Busco oportunidades como:
 - Estágio em Engenharia de Software  
 
 ---
-
 ## 📊 Estatísticas GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1280&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson1280&theme=github_dark)
+
 
 ---
 
