@@ -1,20 +1,40 @@
-# Anderson Ferreira Ananias
+# Olá, eu sou Anderson Ferreira Ananias 👋
 
-<div align="center">
+## Desenvolvedor Python Júnior | Back-end | Dados | Cloud | Full Stack em Formação
 
-## Desenvolvedor Python Júnior | Back-end | Dados | Full Stack em Formação
+**Python • APIs REST • PostgreSQL • MySQL • AWS • GCP • Azure • Power BI**
 
-Python • APIs REST • PostgreSQL • MySQL • AWS • GCP • Azure • Power BI
-
-</div>
+📍 São Paulo, Brasil  
+📧 undersomm@hotmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a  
+💻 GitHub: https://github.com/Anderson1280  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Estácio de Sá**, com foco em desenvolvimento Back-end utilizando Python, integração de sistemas, banco de dados e computação em nuvem.
+Sou estudante de **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, com foco em desenvolvimento **Back-end utilizando Python**, integração de sistemas, banco de dados e computação em nuvem.
 
-Atualmente expandindo competências em desenvolvimento Full Stack, arquitetura de software, persistência de dados e engenharia de sistemas.
+Atualmente desenvolvo competências em:
+
+- Desenvolvimento Full Stack  
+- Arquitetura de Software  
+- Persistência de Dados  
+- Engenharia de Sistemas  
+- Cloud Computing  
+- APIs e automação  
+
+Também estou cursando **CS50 – Introduction to Computer Science**, da Harvard University, fortalecendo fundamentos sólidos em:
+
+- algoritmos  
+- estruturas de dados  
+- abstração computacional  
+- resolução de problemas  
+- desenvolvimento web  
+
+Possuo experiência profissional em suporte técnico, resolução de problemas e atendimento especializado em certificação digital.
+
+Minha formação complementar em Filosofia fortalece pensamento crítico, análise lógica e comunicação estruturada.
 
 ---
 
@@ -24,131 +44,167 @@ Atualmente expandindo competências em desenvolvimento Full Stack, arquitetura d
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 📍 Em andamento
 
-### Disciplinas Atuais (2026)
-
-### Desenvolvimento e Arquitetura
-- Desenvolvimento Full Stack
-- Engenharia de Software
-- Sistemas de Informação e Sociedade
-
-### Modelagem e Análise
-- UML para Modelagem do Domínio
-- Modelagem de Sistemas em UML
-
-### Banco de Dados e Persistência
-- Integração de Páginas Web com Banco de Dados
-- Persistência de Dados com Python
+### Disciplinas Atuais
+- Desenvolvimento Full Stack  
+- Engenharia de Software  
+- Sistemas de Informação e Sociedade  
+- UML para Modelagem de Domínio  
+- Modelagem de Sistemas em UML  
+- Integração Web com Banco de Dados  
+- Persistência de Dados com Python  
 
 ---
 
 ## 📚 Formação Complementar
 
-### SENAI – Serviço Nacional de Aprendizagem Industrial
-- Fundamentos em Python
-- Programação em Python
-- Microsoft Power BI
+### SENAI
+- Fundamentos em Python  
+- Programação em Python  
+- Microsoft Power BI  
+
+### Harvard University
+- CS50 – Introduction to Computer Science *(em andamento)*
+
+### Centro Universitário São Camilo
+- Filosofia *(em andamento)*
 
 ---
 
 ## 💻 Stack Tecnológica
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
+- Python  
+- JavaScript  
+- SQL  
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- HTML5  
+- CSS3  
 
----
+### Back-end
+- APIs REST  
+- Integração de sistemas  
+- Persistência de dados  
 
 ### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
+- PostgreSQL  
+- MySQL  
 
 ### Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- AWS  
+- Google Cloud Platform  
+- Microsoft Azure  
 
-Conhecimentos em:
-- AWS EC2, S3, RDS, IAM e Lambda
-- Fundamentos de Google Cloud Platform (GCP)
-- Fundamentos de Microsoft Azure
-- Conceitos de deploy, segurança, escalabilidade e arquitetura em nuvem
-
----
+### Conhecimentos Cloud
+- AWS EC2  
+- AWS S3  
+- AWS RDS  
+- AWS IAM  
+- AWS Lambda  
+- Deploy  
+- Segurança em nuvem  
+- Escalabilidade  
 
 ### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Git  
+- GitHub  
+- Linux  
+- PyCharm  
+- VS Code  
 
 ---
 
 ## 🧠 Pensamento Computacional
 
-- Decomposição de problemas
-- Reconhecimento de padrões
-- Abstração
-- Construção de algoritmos
+Aplicação prática em:
 
-Aplicado em automação, análise de dados e desenvolvimento de soluções escaláveis.
+- Decomposição de problemas  
+- Reconhecimento de padrões  
+- Abstração  
+- Construção de algoritmos  
+- Automação de tarefas  
+- Desenvolvimento de soluções escaláveis  
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### Mega Sorte IA
-Sistema de análise inteligente e automação de dados.
+Projeto de análise inteligente e automação de dados.
+
+**Tecnologias:** Python, automação e análise de dados.
+
+---
+
+### Mente Leve, Vida Plena
+Autor do livro **Mente Leve, Vida Plena**, publicado na Amazon.
+
+Projeto envolvendo:
+
+- estruturação editorial  
+- fluxo de publicação digital  
+- organização de conteúdo  
+- estratégia de produto digital  
+
+---
 
 ### Book Formatter AI
-Ferramenta Python para formatação automatizada de livros padrão Amazon KDP.
+Projeto em Python inspirado no processo real de publicação do livro *Mente Leve, Vida Plena*.
+
+Objetivos:
+- automação de formatação editorial  
+- padronização de documentos  
+- otimização de fluxo de publicação  
+
+**Tecnologias:** Python, automação, manipulação de arquivos.
+
+---
 
 ### Dashboard Mente Leve, Vida Plena
-Dashboard profissional em Power BI para análise de métricas e vendas.
+Dashboard profissional em Power BI para análise de métricas e performance de vendas.
+
+**Tecnologias:** Power BI, visualização de dados e análise de negócio.
 
 ---
 
 ## 📚 Atualmente Estudando
-
-- Python Avançado
-- FastAPI
-- Arquitetura Full Stack
-- Engenharia de Software
-- Banco de Dados Avançado
-- Cloud Architecture
-
----
-
-## 📈 Estatísticas GitHub
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-## 📫 Contato
-
-📍 São Paulo, Brasil  
-📧 undersomm@hotmail.com  
+- Python Avançado  
+- FastAPI  
+- Arquitetura Full Stack  
+- Banco de Dados Avançado  
+- Cloud Architecture  
+- Engenharia de Software  
 
 ---
 
-<div align="center">
+## 🎯 Objetivo Profissional
 
-## Construindo soluções através de código, dados e arquitetura.
+Busco oportunidades como:
 
-</div>
+- Desenvolvedor Python Júnior  
+- Desenvolvedor Back-end  
+- Analista de Dados  
+- Cloud Support Analyst  
+- Estágio em Engenharia de Software  
+
+Meu foco é construir soluções através de:
+
+- código limpo  
+- automação  
+- arquitetura  
+- análise de dados  
+- melhoria contínua  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact)
+
+---
+
+## ✨ Filosofia pessoal
+
+> Construindo soluções através de código, dados e arquitetura.
