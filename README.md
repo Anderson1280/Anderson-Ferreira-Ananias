@@ -1,6 +1,6 @@
 # Olá, eu sou Anderson Ferreira Ananias 👋
 
-## Desenvolvedor Python Júnior | Back-end | Dados | Cloud | Full Stack em Formação
+## Python Developer | Backend | Cloud | Data Analytics
 
 **Python • APIs REST • PostgreSQL • MySQL • AWS • GCP • Azure • Power BI**
 
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, com foco em desenvolvimento Back-end utilizando Python, integração de sistemas, banco de dados e computação em nuvem.
+Sou estudante de **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, com foco em desenvolvimento **Back-end utilizando Python**, integração de sistemas, banco de dados e computação em nuvem.
 
 Atualmente desenvolvo competências em:
 
@@ -21,20 +21,21 @@ Atualmente desenvolvo competências em:
 - Arquitetura de Software  
 - Persistência de Dados  
 - Engenharia de Sistemas  
-- APIs e automação  
+- APIs REST  
+- Automação  
 - Cloud Computing  
 
-Também curso **CS50 – Introduction to Computer Science (Harvard University)**, aprofundando fundamentos em:
+Também curso **CS50 – Introduction to Computer Science (Harvard University)**, fortalecendo fundamentos em:
 
-- algoritmos  
-- estruturas de dados  
-- abstração computacional  
-- resolução de problemas  
-- desenvolvimento web  
+- Algoritmos  
+- Estruturas de Dados  
+- Abstração Computacional  
+- Resolução de Problemas  
+- Desenvolvimento Web  
 
-Atuo profissionalmente com suporte técnico e certificação digital, experiência que fortaleceu análise de problemas, comunicação e resolução técnica.
+Atuo profissionalmente com suporte técnico e certificação digital, experiência que fortaleceu análise de problemas, atendimento técnico e resolução estruturada.
 
-Minha formação em Filosofia fortalece pensamento crítico, lógica e visão analítica.
+Minha formação complementar em Filosofia fortalece pensamento crítico, lógica e comunicação analítica.
 
 ---
 
@@ -42,7 +43,7 @@ Minha formação em Filosofia fortalece pensamento crítico, lógica e visão an
 
 ### Universidade Estácio de Sá
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-📍 Em andamento
+📍 Em andamento  
 
 ### Formação complementar
 - SENAI — Fundamentos em Python  
@@ -59,6 +60,10 @@ Minha formação em Filosofia fortalece pensamento crítico, lógica e visão an
 - Python  
 - JavaScript  
 - SQL  
+
+### Front-end
+- HTML5  
+- CSS3  
 
 ### Banco de Dados
 - PostgreSQL  
@@ -95,11 +100,11 @@ Projeto envolvendo:
 - escrita e estruturação editorial  
 - publicação digital via Amazon KDP  
 - organização de conteúdo  
-- posicionamento de produto digital  
+- estratégia de produto digital  
 
 ---
 
-### Dashboard curso SENAI
+### Dashboard Mente Leve, Vida Plena
 Dashboard desenvolvido em Power BI para análise de métricas, performance e oportunidades de vendas.
 
 **Tecnologias:** Power BI, análise de dados e visualização.
@@ -120,7 +125,7 @@ Dashboard desenvolvido em Power BI para análise de métricas, performance e opo
 
 Busco oportunidades como:
 
-- Desenvolvedor Python Júnior  
+- Desenvolvedor Python  
 - Desenvolvedor Back-end  
 - Analista de Dados  
 - Cloud Support Analyst  
@@ -128,11 +133,39 @@ Busco oportunidades como:
 
 ---
 
-## 📈 GitHub
+## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact)
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+## 🔥 Atividade
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1280&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson1280&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anderson1280&theme=radical"/>
+</p>
 
 ---
 
