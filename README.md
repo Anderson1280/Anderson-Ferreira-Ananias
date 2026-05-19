@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, com foco em desenvolvimento **Back-end utilizando Python**, integração de sistemas, banco de dados e computação em nuvem.
+Sou estudante de **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**, com foco em desenvolvimento Back-end utilizando Python, integração de sistemas, banco de dados e computação em nuvem.
 
 Atualmente desenvolvo competências em:
 
@@ -21,20 +21,20 @@ Atualmente desenvolvo competências em:
 - Arquitetura de Software  
 - Persistência de Dados  
 - Engenharia de Sistemas  
-- Cloud Computing  
 - APIs e automação  
+- Cloud Computing  
 
-Também estou cursando **CS50 – Introduction to Computer Science**, da Harvard University, fortalecendo fundamentos sólidos em:
+Também curso **CS50 – Introduction to Computer Science (Harvard University)**, aprofundando fundamentos em:
 
-- Algoritmos  
-- Estruturas de Dados  
-- Abstração Computacional  
-- Resolução de Problemas  
-- Desenvolvimento Web  
+- algoritmos  
+- estruturas de dados  
+- abstração computacional  
+- resolução de problemas  
+- desenvolvimento web  
 
-Possuo experiência profissional em suporte técnico, resolução de problemas e atendimento especializado em certificação digital.
+Atuo profissionalmente com suporte técnico e certificação digital, experiência que fortaleceu análise de problemas, comunicação e resolução técnica.
 
-Minha formação complementar em Filosofia fortalece pensamento crítico, análise lógica e comunicação estruturada.
+Minha formação em Filosofia fortalece pensamento crítico, lógica e visão analítica.
 
 ---
 
@@ -44,29 +44,12 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 📍 Em andamento
 
-### Disciplinas Atuais
-- Desenvolvimento Full Stack  
-- Engenharia de Software  
-- Sistemas de Informação e Sociedade  
-- UML para Modelagem de Domínio  
-- Modelagem de Sistemas em UML  
-- Integração Web com Banco de Dados  
-- Persistência de Dados com Python  
-
----
-
-## 📚 Formação Complementar
-
-### SENAI
-- Fundamentos em Python  
-- Programação em Python  
-- Microsoft Power BI  
-
-### Harvard University
-- CS50 – Introduction to Computer Science *(em andamento)*  
-
-### Centro Universitário São Camilo
-- Filosofia *(em andamento)*  
+### Formação complementar
+- SENAI — Fundamentos em Python  
+- SENAI — Programação em Python  
+- SENAI — Microsoft Power BI  
+- Harvard University — CS50 *(em andamento)*  
+- Centro Universitário São Camilo — Filosofia *(em andamento)*  
 
 ---
 
@@ -77,33 +60,14 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 - JavaScript  
 - SQL  
 
-### Front-end
-- HTML5  
-- CSS3  
-
-### Back-end
-- APIs REST  
-- Integração de Sistemas  
-- Persistência de Dados  
-
 ### Banco de Dados
 - PostgreSQL  
 - MySQL  
 
-### Cloud Computing
+### Cloud
 - AWS  
 - Google Cloud Platform  
 - Microsoft Azure  
-
-### Conhecimentos Cloud
-- AWS EC2  
-- AWS S3  
-- AWS RDS  
-- AWS IAM  
-- AWS Lambda  
-- Deploy  
-- Segurança em Nuvem  
-- Escalabilidade  
 
 ### Ferramentas
 - Git  
@@ -114,23 +78,10 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 
 ---
 
-## 🧠 Pensamento Computacional
-
-Aplicação prática em:
-
-- Decomposição de Problemas  
-- Reconhecimento de Padrões  
-- Abstração  
-- Construção de Algoritmos  
-- Automação de Tarefas  
-- Desenvolvimento de Soluções Escaláveis  
-
----
-
-## 📌 Projetos em Destaque
+## 📌 Projetos
 
 ### Mega Sorte IA
-Projeto de análise inteligente e automação de dados.
+Projeto de automação e análise inteligente de dados.
 
 **Tecnologias:** Python, automação e análise de dados.
 
@@ -141,33 +92,21 @@ Autor do livro **Mente Leve, Vida Plena**, publicado na Amazon.
 
 Projeto envolvendo:
 
-- Estruturação editorial  
-- Fluxo de publicação digital  
-- Organização de conteúdo  
-- Estratégia de produto digital  
+- escrita e estruturação editorial  
+- publicação digital via Amazon KDP  
+- organização de conteúdo  
+- posicionamento de produto digital  
 
 ---
 
-### Book Formatter AI
-Projeto em Python inspirado no processo real de publicação do livro **Mente Leve, Vida Plena**.
+### Dashboard curso SENAI
+Dashboard desenvolvido em Power BI para análise de métricas, performance e oportunidades de vendas.
 
-Objetivos:
-- Automação de formatação editorial  
-- Padronização de documentos  
-- Otimização de fluxo de publicação  
-
-**Tecnologias:** Python, automação e manipulação de arquivos.
+**Tecnologias:** Power BI, análise de dados e visualização.
 
 ---
 
-### Dashboard Mente Leve, Vida Plena
-Dashboard profissional em Power BI para análise de métricas e performance de vendas.
-
-**Tecnologias:** Power BI, visualização de dados e análise de negócio.
-
----
-
-## 📚 Atualmente Estudando
+## 📚 Atualmente estudando
 - Python Avançado  
 - FastAPI  
 - Arquitetura Full Stack  
@@ -187,26 +126,16 @@ Busco oportunidades como:
 - Cloud Support Analyst  
 - Estágio em Engenharia de Software  
 
-Meu foco é construir soluções através de:
-
-- Código limpo  
-- Automação  
-- Arquitetura  
-- Análise de dados  
-- Melhoria contínua  
-
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub
 
-![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact)
 
 ---
 
 ## ✨ Filosofia pessoal
 
-> Construindo soluções através de código, dados e arquitetura.
+> Construindo soluções através de código, dados e pensamento estruturado.
