@@ -26,11 +26,11 @@ Atualmente desenvolvo competências em:
 
 Também estou cursando **CS50 – Introduction to Computer Science**, da Harvard University, fortalecendo fundamentos sólidos em:
 
-- algoritmos  
-- estruturas de dados  
-- abstração computacional  
-- resolução de problemas  
-- desenvolvimento web  
+- Algoritmos  
+- Estruturas de Dados  
+- Abstração Computacional  
+- Resolução de Problemas  
+- Desenvolvimento Web  
 
 Possuo experiência profissional em suporte técnico, resolução de problemas e atendimento especializado em certificação digital.
 
@@ -63,10 +63,10 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 - Microsoft Power BI  
 
 ### Harvard University
-- CS50 – Introduction to Computer Science *(em andamento)*
+- CS50 – Introduction to Computer Science *(em andamento)*  
 
 ### Centro Universitário São Camilo
-- Filosofia *(em andamento)*
+- Filosofia *(em andamento)*  
 
 ---
 
@@ -83,8 +83,8 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 
 ### Back-end
 - APIs REST  
-- Integração de sistemas  
-- Persistência de dados  
+- Integração de Sistemas  
+- Persistência de Dados  
 
 ### Banco de Dados
 - PostgreSQL  
@@ -102,7 +102,7 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 - AWS IAM  
 - AWS Lambda  
 - Deploy  
-- Segurança em nuvem  
+- Segurança em Nuvem  
 - Escalabilidade  
 
 ### Ferramentas
@@ -118,12 +118,12 @@ Minha formação complementar em Filosofia fortalece pensamento crítico, análi
 
 Aplicação prática em:
 
-- Decomposição de problemas  
-- Reconhecimento de padrões  
+- Decomposição de Problemas  
+- Reconhecimento de Padrões  
 - Abstração  
-- Construção de algoritmos  
-- Automação de tarefas  
-- Desenvolvimento de soluções escaláveis  
+- Construção de Algoritmos  
+- Automação de Tarefas  
+- Desenvolvimento de Soluções Escaláveis  
 
 ---
 
@@ -141,22 +141,22 @@ Autor do livro **Mente Leve, Vida Plena**, publicado na Amazon.
 
 Projeto envolvendo:
 
-- estruturação editorial  
-- fluxo de publicação digital  
-- organização de conteúdo  
-- estratégia de produto digital  
+- Estruturação editorial  
+- Fluxo de publicação digital  
+- Organização de conteúdo  
+- Estratégia de produto digital  
 
 ---
 
 ### Book Formatter AI
-Projeto em Python inspirado no processo real de publicação do livro *Mente Leve, Vida Plena*.
+Projeto em Python inspirado no processo real de publicação do livro **Mente Leve, Vida Plena**.
 
 Objetivos:
-- automação de formatação editorial  
-- padronização de documentos  
-- otimização de fluxo de publicação  
+- Automação de formatação editorial  
+- Padronização de documentos  
+- Otimização de fluxo de publicação  
 
-**Tecnologias:** Python, automação, manipulação de arquivos.
+**Tecnologias:** Python, automação e manipulação de arquivos.
 
 ---
 
@@ -189,19 +189,21 @@ Busco oportunidades como:
 
 Meu foco é construir soluções através de:
 
-- código limpo  
-- automação  
-- arquitetura  
-- análise de dados  
-- melhoria contínua  
+- Código limpo  
+- Automação  
+- Arquitetura  
+- Análise de dados  
+- Melhoria contínua  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true)
+![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anderson1280&theme=tokyonight&hide_border=true)
 
 ---
 
