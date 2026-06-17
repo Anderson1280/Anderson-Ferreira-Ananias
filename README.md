@@ -1,141 +1,299 @@
 # Olá, eu sou Anderson Ferreira Ananias 👋
 
-## Python Developer | Backend | Cloud & Data Analytics
+## Python Developer | Backend Engineer | Full Stack Developer | Cloud & Data Analytics
 
-**Python • FastAPI • REST APIs • PostgreSQL • MySQL • AWS • GCP • Azure • Power BI**
+**Python • FastAPI • REST APIs • SQL • PostgreSQL • MySQL • Docker • Cloud Computing • Power BI • Artificial Intelligence**
 
-📍 São Paulo, Brasil  
-📧 undersomm@hotmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a  
-💻 GitHub: https://github.com/Anderson1280  
+📍 São Paulo, Brasil
+📧 [undersomm@hotmail.com](mailto:undersomm@hotmail.com)
 
----
+💼 LinkedIn:
+https://www.linkedin.com/in/anderson-ferreira-ananias-python-power-bi-aws-uml-eng-software-93b44235a
 
-## 🚀 Sobre mim
-
-Sou desenvolvedor focado em **Back-end com Python**, integração de sistemas, banco de dados e computação em nuvem.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá e **Filosofia** pelo Centro Universitário São Camilo, combinando pensamento analítico, lógica e engenharia de software.
-
-Atualmente focado em:
-
-- Desenvolvimento de APIs robustas com **FastAPI** e arquitetura REST  
-- Modelagem e persistência de dados com **PostgreSQL** e **MySQL**  
-- Cloud Computing e fundamentos de infraestrutura moderna  
-
-Também curso:
-
-**CS50’s Introduction to Artificial Intelligence with Python — Harvard University / edX**
-
-Fortalecendo conhecimentos em:
-
-- algoritmos  
-- inteligência artificial  
-- machine learning fundamentals  
-- estruturas de dados  
-- resolução de problemas  
+💻 GitHub:
+https://github.com/Anderson1280
 
 ---
 
-## 💻 Stack & Tecnologias
+# 🚀 Sobre mim
 
-### Linguagens & Frameworks
-- Python (FastAPI)
-- JavaScript
-- SQL
+Sou desenvolvedor com foco em **Back-end Python, desenvolvimento de APIs, integração de sistemas, bancos de dados e soluções orientadas a dados**.
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
+Minha trajetória une **tecnologia, pensamento analítico e engenharia de software**, aplicando lógica, organização e resolução de problemas na criação de soluções digitais.
 
-### Cloud & Infraestrutura
-- AWS
-- Google Cloud Platform
-- Microsoft Azure
+Atualmente desenvolvo projetos e conhecimentos em:
 
-### Ferramentas
-- Git
-- GitHub
-- Linux
-- PyCharm
-- VS Code
-
-### Dados & BI
-- Microsoft Power BI
-- Modelagem de Dados
-- DAX
+* Desenvolvimento Backend com Python
+* APIs REST utilizando FastAPI
+* Banco de dados relacionais
+* Automação de processos
+* Análise de dados
+* Inteligência Artificial
+* Computação em nuvem
+* Business Intelligence
 
 ---
 
-## 📌 Projetos em Destaque
+# 💻 Áreas de atuação
 
-### Mega Sorte IA
-Sistema de automação e análise inteligente de dados.
+## Backend Development
 
-**Tecnologias:** Python, automação, análise de dados e banco de dados.
+* Desenvolvimento de aplicações Python
+* Construção de APIs REST
+* Integração entre sistemas
+* Organização de código
+* Arquitetura de aplicações
+* Persistência de dados
+
+## Data Analytics
+
+* Análise e organização de dados
+* Modelagem de informações
+* Dashboards
+* Indicadores de negócio
+* Visualização de dados
+
+## Cloud & Infraestrutura
+
+* Conceitos de computação em nuvem
+* Ambientes Linux
+* Containers
+* Fundamentos de deployment
 
 ---
 
-### Mente Leve, Vida Plena
-Autor do livro **Mente Leve, Vida Plena**, publicado na Amazon KDP.
+# 🛠️ Stack Tecnológica
+
+## Linguagens de Programação
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+Conhecimentos:
+
+* Python
+* Programação Orientada a Objetos
+* Estruturas de dados
+* Automação
+* Manipulação de dados
+* SQL
+
+---
+
+# Backend & APIs
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
+
+</p>
+
+Conhecimentos:
+
+* APIs REST
+* JSON
+* HTTP
+* Integrações
+* Serviços Backend
+
+---
+
+# Banco de Dados
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+Conhecimentos:
+
+* Modelagem relacional
+* Estrutura de tabelas
+* Relacionamentos
+* Consultas SQL
+* Persistência de dados
+
+---
+
+# Cloud Computing
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+Conhecimentos:
+
+* Fundamentos Cloud
+* Serviços em nuvem
+* Infraestrutura moderna
+* Conceitos de arquitetura distribuída
+
+---
+
+# DevOps & Ferramentas
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+Ferramentas:
+
+* PyCharm
+* VS Code
+* Git Workflow
+* Ambientes virtuais Python
+
+---
+
+# Dados & Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+Conhecimentos:
+
+* Power Query
+* DAX
+* Modelagem de dados
+* Dashboards
+* Business Intelligence
+
+---
+
+# Inteligência Artificial
+
+Estudos em:
+
+* Algoritmos
+* Estruturas de dados
+* Machine Learning fundamentals
+* Inteligência Artificial com Python
+
+Curso:
+
+**CS50's Introduction to Artificial Intelligence with Python**
+
+Harvard University / edX *(em andamento)*
+
+---
+
+# 📌 Projetos em Destaque
+
+## 🤖 Mega Sorte IA
+
+Sistema envolvendo automação, análise de dados e processamento inteligente.
+
+Tecnologias:
+
+* Python
+* Automação
+* Dados
+* Banco de dados
+
+---
+
+## 📚 Mente Leve, Vida Plena
+
+Autor do livro publicado na Amazon KDP.
 
 Projeto envolvendo:
 
-- autoria e estruturação editorial  
-- publicação digital  
-- organização de produto digital  
+* Produção editorial
+* Organização de conteúdo
+* Publicação digital
+* Produto independente
 
 ---
 
-### Dashboard curso SENAI
-Dashboard em Power BI para análise de métricas e oportunidades de vendas.
+## 📊 Projetos Power BI
 
-**Tecnologias:** Power BI, análise de dados e visualização.
+Dashboards desenvolvidos para análise de informações e indicadores.
 
----
+Tecnologias:
 
-## 🎓 Formação
-
-- Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade Estácio de Sá *(em andamento)*  
-- Graduação em Filosofia — Centro Universitário São Camilo *(em andamento)*  
-- CS50’s Introduction to Artificial Intelligence with Python — Harvard University / edX *(em andamento)*  
-- Formação em Python e Power BI — SENAI  
+* Power BI
+* DAX
+* Modelagem de dados
 
 ---
 
-## 🎯 Objetivo Profissional
+# 🎓 Formação
+
+🎓 Desenvolvimento Full Stack
+Universidade Estácio de Sá *(em andamento)*
+
+🎓 Filosofia
+Centro Universitário São Camilo *(em andamento)*
+
+🎓 CS50's Introduction to Artificial Intelligence with Python
+Harvard University / edX *(em andamento)*
+
+🎓 Formação Python e Power BI
+SENAI
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1280\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson1280\&theme=github_dark)
+
+---
+
+# 🎯 Objetivo Profissional
 
 Busco oportunidades como:
 
-- Python Developer  
-- Backend Developer  
-- Software Engineering Intern  
-- Data Analyst  
-- Cloud Support Analyst  
+* Python Developer
+* Backend Developer
+* Junior Software Engineer
+* Data Analyst
+* Cloud Support Analyst
+
+Áreas de interesse:
+
+* Desenvolvimento de APIs
+* Sistemas inteligentes
+* Automação
+* Dados
+* Cloud Computing
 
 ---
 
-## 📊 Estatísticas GitHub
+# ✨ Filosofia pessoal
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1280&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson1280&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anderson1280&theme=github_dark)
----
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+> "Construindo soluções através de código, dados e pensamento estruturado."
 
 ---
 
-## ✨ Filosofia pessoal
-
-> Construindo soluções através de código, dados e pensamento estruturado.
+⭐ Aprendendo continuamente, desenvolvendo projetos e transformando ideias em soluções digitais.
