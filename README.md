@@ -1,585 +1,302 @@
-┘
-🛠️ Technology Stack
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
-🔧 Development Tools
-Visual Studio Code
-PyCharm
-Git
-GitHub
-Python Virtual Environments
-Linux
-Docker
-Power BI
-PostgreSQL
-MySQL
-📚 Currently Studying
-
-Atualmente estou aprofundando conhecimentos em:
-
-Backend
-Python
-FastAPI
-REST APIs
-WebSocket
-Arquitetura Backend
-Integração de sistemas
-Databases
-PostgreSQL
-SQL
-Modelagem de dados
-Persistência
-Performance e organização de consultas
-Full Stack
-React
-JavaScript
-Integração Frontend / Backend
-Aplicações Web
-Cloud
-Cloud Computing
-Docker
-Linux
-Deployment
-Arquitetura de aplicações
-Artificial Intelligence
-Artificial Intelligence
-Machine Learning
-Generative AI
-RAG
-AI Agents
-Automação inteligente
-🎯 Professional Focus
-
-Meu objetivo profissional é continuar evoluindo na área de tecnologia,
-atuando principalmente em projetos relacionados a:
-
-Python Development
-Backend Development
-Full Stack Development
-Software Engineering
-API Development
-Database Development
-Cloud Computing
-Artificial Intelligence
-Data Analytics
-Business Intelligence
-Automation
-SaaS
-Systems Integration
-
-Busco oportunidades que permitam aplicar conhecimentos técnicos,
-desenvolver soluções reais e continuar evoluindo profissionalmente.
-
-🧭 Desenvolvimento profissional
-
-Meu foco não está apenas em aprender ferramentas, mas em compreender os
-fundamentos necessários para construir software.
-
-Fundamentos
-     │
-     ▼
-Algoritmos e Lógica
-     │
-     ▼
-Programação
-     │
-     ▼
-Python
-     │
-     ▼
-Banco de Dados
-     │
-     ▼
-Backend & APIs
-     │
-     ▼
-Full Stack
-     │
-     ▼
-Cloud & Infrastructure
-     │
-     ▼
-Artificial Intelligence
-     │
-     ▼
-Produtos e Sistemas Reais
-📊 GitHub Analytics
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&hide_border=true&count_private=true" alt="Anderson Ferreira Ananias GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&hide_border=true" alt="Most Used Languages" /> </p>
-🌎 Languages
-🇧🇷 Portuguese — Native
-🇺🇸 English — Technical studies / development
-📫 Contact
-LinkedIn
-
-https://www.linkedin.com/in/anderson-ferreira-ananias-dev-uml-python-ia-gen-apis-postgresql-cloud-93b44235a/
-
-GitHub
-
-https://github.com/Anderson1280
-
-Email
-
-undersomm@hotmail.com
-
-SAT Tracker
-
-https://sattracker.ia.br/
-
-💡 Personal Philosophy
-
-"Construindo soluções através de código, dados e pensamento estruturado."
-
-Acredito no aprendizado contínuo, na construção prática e na evolução
-constante.
-
-Meu objetivo é transformar conhecimento em software, software em produtos
-e produtos em soluções capazes de resolver problemas reais.
-
-<p align="center"> <strong>Learning continuously • Building real products • Solving real problems</strong> </p> <p align="center"> ⭐ Obrigado por visitar meu perfil! </p> ```
-Bio curta do perfil
-
-No campo Bio do GitHub, eu colocaria:
-
-Full Stack Developer in Training | Python Backend | APIs | Cloud | AI | Creator of SAT Tracker SaaS
-Descrição curta do repositório Anderson-Ferreira-Ananias
-Tecnologias utilizadas
-Python
-FastAPI
-React
-PostgreSQL
-SQL
-REST APIs
-WebSocket
-Docker
-Linux
-Cloud Computing
-Artificial Intelligence
-ALPR
-Chatbot
-Automação
-GPS Tracking
-Geofencing
-Data Processing
-Multi-tenant Architecture
-Principais recursos
-Rastreamento GPS
-Comunicação em tempo real
-Monitoramento de veículos
-Geofencing
-Alertas
-Integração com rastreadores
-APIs REST
-WebSocket
-Processamento de dados
-Inteligência Artificial
-ALPR
-Chatbot
-Automação
-Arquitetura Multi-tenant
-Integrações com serviços externos
-
-🌐 Website:
-https://sattracker.ia.br/
-
-💻 Core Technical Skills
-🐍 Python
-Python
-Programação Orientada a Objetos
-Estruturas de dados
-Funções
-Módulos
-Manipulação de dados
-Automação
-Persistência de dados
-Integração com APIs
-Desenvolvimento Backend
-⚙️ Backend Development
-Python
-FastAPI
-REST APIs
-HTTP
-JSON
-WebSocket
-API Integration
-Backend Services
-Authentication concepts
-Data persistence
-Application architecture
-System integration
-🗄️ Database Engineering
-PostgreSQL
-MySQL
-SQL
-Bancos de Dados Relacionais
-Modelagem de dados
-Estrutura de tabelas
-Relacionamentos
-Consultas SQL
-Persistência de dados
-Integração entre aplicação e banco de dados
-🌐 Full Stack Development
-Python
-JavaScript
-React
-HTML
-CSS
-Desenvolvimento Web
-APIs
-Integração Frontend / Backend
-Aplicações Web com Banco de Dados
-Integração de sistemas
-☁️ Cloud & Infrastructure
-Cloud Computing
-Conceitos de infraestrutura
-Linux
-Docker
-Containers
-Deployment
-Serviços em nuvem
-Arquitetura de aplicações
-Conceitos de sistemas distribuídos
-📊 Data Analytics & Business Intelligence
-Microsoft Power BI
-Power BI
-Power Query
-DAX
-Modelagem de dados
-Dashboards
-Indicadores
-Visualização de dados
-Business Intelligence
-Data Analytics
-🤖 Artificial Intelligence
-
-Estudos e desenvolvimento relacionados a:
-
-Inteligência Artificial
-Inteligência Artificial com Python
-Machine Learning
-Machine Learning Fundamentals
-IA Generativa
-RAG
-Chatbots
-Automação inteligente
-Processamento de dados
-ALPR
-🧠 Engenharia de Software
-
-Minha formação envolve fundamentos de Engenharia de Software e
-desenvolvimento de sistemas, incluindo:
-
-Lógica de programação
-Algoritmos
-Estruturas de dados
-Pensamento Computacional
-Programação de computadores
-Programação Orientada a Objetos
-Modelagem de Sistemas
-Banco de Dados
-Persistência de Dados
-Engenharia de Software
-Desenvolvimento Web
-Arquitetura de aplicações
-Integração de sistemas
-APIs
-Cloud Computing
-🎓 Formação Acadêmica
-🎓 Universidade Estácio de Sá
-Desenvolvimento Full Stack — em andamento
-
-Minha formação na Estácio inclui estudos em diferentes fundamentos de
-desenvolvimento de software e tecnologia.
-
-Principais disciplinas e conhecimentos
-Banco de Dados
-Cloud Computing
-Engenharia de Software
-Internet / Páginas Web com Banco de Dados
-Lógica, Algoritmos e Programação de Computadores
-Modelagem de Sistemas de Informação
-Pensamento Computacional
-Persistência de Dados com Python
-Programação em Python
-Sistemas de Informação
-Desenvolvimento Full Stack
-Base acadêmica
-
-A formação proporciona uma base em:
-
-Pensamento Computacional
-        ↓
-Lógica e Algoritmos
-        ↓
-Programação
-        ↓
-Python
-        ↓
-Banco de Dados
-        ↓
-Persistência de Dados
-        ↓
-Desenvolvimento Web
-        ↓
-Engenharia de Software
-        ↓
-Cloud Computing
-        ↓
-Desenvolvimento Full Stack
-🐍 SENAI
-Fundamentos em Python
-
-Formação complementar com foco em:
-
-Fundamentos de Python
-Lógica de programação
-Programação
-Estruturas fundamentais da linguagem
-Desenvolvimento de soluções utilizando Python
-📊 SENAI — Microsoft Power BI
-
-Formação complementar em:
-
-Microsoft Power BI
-Power Query
-DAX
-Modelagem de dados
-Dashboards
-Análise de dados
-Business Intelligence
-Visualização de informações
-🤖 Harvard University / CS50
-CS50's Introduction to Artificial Intelligence with Python
-
-Em andamento
-
-Estudos relacionados a fundamentos de Inteligência Artificial utilizando
-Python.
-
-Conteúdos
-Artificial Intelligence
-Algorithms
-Search
-Knowledge
-Optimization
-Machine Learning
-Neural Networks
-Python
-Artificial Intelligence fundamentals
-🎓 Centro Universitário São Camilo
-Filosofia — em andamento
-
-Formação complementar voltada ao desenvolvimento de:
-
-Pensamento crítico
-Análise conceitual
-Argumentação
-Raciocínio estruturado
-Investigação
-Análise lógica
-Reflexão sobre problemas complexos
-
-A formação em Filosofia complementa minha trajetória tecnológica ao
-fortalecer habilidades de análise, questionamento, argumentação e
-pensamento estruturado.
-
-🧩 Projetos
-🛰️ SAT Tracker
-
-Vehicle Intelligence SaaS
-
-Tecnologias:
-
-Python FastAPI React PostgreSQL SQL WebSocket Docker Cloud AI
-
-Plataforma própria de inteligência e rastreamento veicular.
-
-🌐 https://sattracker.ia.br/
-
-📖 Mente Leve, Vida Plena
-
-Projeto editorial independente e livro de minha autoria publicado através
-da Amazon KDP.
-
-O projeto envolveu:
-
-Produção editorial
-Organização de conteúdo
-Desenvolvimento do projeto
-Publicação digital
-Distribuição
-Desenvolvimento de produto independente
-📈 Minha evolução técnica
-
-Minha trajetória de desenvolvimento está estruturada em uma evolução
-progressiva:
-
-┌───────────────────────────────────────────────┐
-│              ARTIFICIAL INTELLIGENCE          │
-│      AI • ML • Generative AI • RAG • ALPR     │
-└───────────────────────────┬───────────────────┘
-                            │
-┌───────────────────────────▼───────────────────┐
-│                  CLOUD & DEVOPS               │
-│       Cloud • Docker • Linux • Deployment     │
-└───────────────────────────┬───────────────────┘
-                            │
-┌───────────────────────────▼───────────────────┐
-│                 FULL STACK                    │
-│       React • Web • APIs • Integration        │
-└───────────────────────────┬───────────────────┘
-                            │
-┌───────────────────────────▼───────────────────┐
-│                   BACKEND                     │
-│      Python • FastAPI • REST • WebSocket      │
-└───────────────────────────┬───────────────────┘
-                            │
-┌───────────────────────────▼───────────────────┐
-│                DATABASES                       │
-│        PostgreSQL • MySQL • SQL               │
-└───────────────────────────┬───────────────────┘
-                            │
-┌───────────────────────────▼───────────────────┐
-│                 FOUNDATIONS                   │
-│ Algorithms • Logic • Programming • Systems    │
-└───────────────────────────────────────────────┘
-🛠️ Technology Stack
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
-🔧 Development Tools
-Visual Studio Code
-PyCharm
-Git
-GitHub
-Python Virtual Environments
-Linux
-Docker
-Power BI
-PostgreSQL
-MySQL
-📚 Currently Studying
-
-Atualmente estou aprofundando conhecimentos em:
-
-Backend
-Python
-FastAPI
-REST APIs
-WebSocket
-Arquitetura Backend
-Integração de sistemas
-Databases
-PostgreSQL
-SQL
-Modelagem de dados
-Persistência
-Performance e organização de consultas
-Full Stack
-React
-JavaScript
-Integração Frontend / Backend
-Aplicações Web
-Cloud
-Cloud Computing
-Docker
-Linux
-Deployment
-Arquitetura de aplicações
-Artificial Intelligence
-Artificial Intelligence
-Machine Learning
-Generative AI
-RAG
-AI Agents
-Automação inteligente
-🎯 Professional Focus
-
-Meu objetivo profissional é continuar evoluindo na área de tecnologia,
-atuando principalmente em projetos relacionados a:
-
-Python Development
-Backend Development
-Full Stack Development
-Software Engineering
-API Development
-Database Development
-Cloud Computing
-Artificial Intelligence
-Data Analytics
-Business Intelligence
-Automation
-SaaS
-Systems Integration
-
-Busco oportunidades que permitam aplicar conhecimentos técnicos,
-desenvolver soluções reais e continuar evoluindo profissionalmente.
-
-🧭 Desenvolvimento profissional
-
-Meu foco não está apenas em aprender ferramentas, mas em compreender os
-fundamentos necessários para construir software.
-
-Fundamentos
-     │
-     ▼
-Algoritmos e Lógica
-     │
-     ▼
-Programação
-     │
-     ▼
-Python
-     │
-     ▼
-Banco de Dados
-     │
-     ▼
-Backend & APIs
-     │
-     ▼
-Full Stack
-     │
-     ▼
-Cloud & Infrastructure
-     │
-     ▼
-Artificial Intelligence
-     │
-     ▼
-Produtos e Sistemas Reais
-📊 GitHub Analytics
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&hide_border=true&count_private=true" alt="Anderson Ferreira Ananias GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&hide_border=true" alt="Most Used Languages" /> </p>
-🌎 Languages
-🇧🇷 Portuguese — Native
-🇺🇸 English — Technical studies / development
-📫 Contact
-LinkedIn
-
-https://www.linkedin.com/in/anderson-ferreira-ananias-dev-uml-python-ia-gen-apis-postgresql-cloud-93b44235a/
-
-GitHub
-
-https://github.com/Anderson1280
-
-Email
-
-undersomm@hotmail.com
-
-SAT Tracker
-
-https://sattracker.ia.br/
-
-💡 Personal Philosophy
-
-"Construindo soluções através de código, dados e pensamento estruturado."
-
-Acredito no aprendizado contínuo, na construção prática e na evolução
-constante.
-
-Meu objetivo é transformar conhecimento em software, software em produtos
-e produtos em soluções capazes de resolver problemas reais.
-
-<p align="center"> <strong>Learning continuously • Building real products • Solving real problems</strong> </p> <p align="center"> ⭐ Obrigado por visitar meu perfil! </p> ```
-Bio curta do perfil
-
-No campo Bio do GitHub, eu colocaria:
-
-Full Stack Developer in Training | Python Backend | APIs | Cloud | AI | Creator of SAT Tracker SaaS
-Descrição curta do repositório Anderson-Ferreira-Ananias
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Python+Backend;APIs+%7C+Cloud+%7C+Artificial+Intelligence" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anderson1280">
+    <img src="https://img.shields.io/badge/GitHub-Anderson1280-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anderson-ferreira-ananias-dev-uml-python-ia-gen-apis-postgresql-cloud-93b44235a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anderson%20Ferreira%20Ananias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sattracker.ia.br/">
+    <img src="https://img.shields.io/badge/SAT%20Tracker-Live%20SaaS-10B981?style=for-the-badge&logo=serverless&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  São Paulo, Brasil &nbsp;|&nbsp; undersomm@hotmail.com
+</p>
+---
+
+## 👋 Sobre mim
+
+Desenvolvedor em formação com foco em **Python, Backend, APIs REST, Banco de Dados, Cloud, Inteligência Artificial e Full Stack**.
+
+Estudante de **Desenvolvimento Full Stack** (Universidade Estácio de Sá) e **Filosofia** (Centro Universitário São Camilo), com formação complementar no **SENAI** e em curso de **AI with Python pela Harvard (CS50)**.
+
+Trabalho na interseção entre **engenharia de software, dados e pensamento estruturado** — construindo produtos reais, não apenas exercícios.
+
+> *"Transformando conhecimento em software, software em produtos e produtos em soluções que resolvem problemas reais."*
+>
+> ---
+
+## 🛰️ Projeto Destaque
+
+### SAT Tracker — Plataforma SaaS de Inteligência Veicular
+
+Produto próprio em produção que combina **rastreamento GPS, reconhecimento automático de placas (ALPR), cercas virtuais, alertas em tempo real, chatbot com IA e dashboard completo**.
+
+**Arquitetura técnica:**
+
+| Camada | Tecnologias |
+|--------|-------------|
+| 🖥️ Frontend | React · JavaScript · HTML · CSS |
+| ⚙️ Backend | Python · FastAPI · REST · WebSocket |
+| 🗄️ Data Layer | PostgreSQL · SQL · Modelagem · ORM |
+| ☁️ Infrastructure | Docker · Linux · Cloud · CI/CD |
+| 🤖 Intelligence | AI · ALPR · Chatbot · Automação |
+
+**Recursos principais:**
+
+- 🛰️ Rastreamento GPS em tempo real
+- 📍 Geofencing e cercas virtuais
+- 🔔 Watchlist com alertas automáticos
+- 📷 ALPR (reconhecimento de placas)
+- 💬 Chatbot inteligente com IA
+- 🏢 Arquitetura multi-tenant
+- 🔌 Integração com rastreadores OBD-II
+- 🌐 API REST completa
+
+**Stack do projeto:**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+
+🔗 **[sattracker.ia.br](https://sattracker.ia.br/)**
+
+---
+
+## 💻 Core Technical Skills
+
+<details>
+<summary><strong>🐍 Python & Backend</strong></summary>
+
+<br>
+
+- Python · POO · Estruturas de dados · Automação
+- FastAPI · REST APIs · WebSocket · HTTP · JSON
+- Arquitetura de aplicações · Autenticação · Integração de sistemas
+
+</details>
+
+<details>
+<summary><strong>🗄️ Database Engineering</strong></summary>
+
+<br>
+
+- PostgreSQL · MySQL · SQL
+- Modelagem de dados · Relacionamentos · Consultas avançadas
+- Persistência · Performance · Integração aplicação ↔ banco
+
+</details>
+
+<details>
+<summary><strong>🌐 Full Stack Development</strong></summary>
+
+<br>
+
+- React · JavaScript · HTML · CSS
+- Integração Frontend ↔ Backend
+- Aplicações Web com banco de dados
+
+</details>
+
+<details>
+<summary><strong>☁️ Cloud & Infrastructure</strong></summary>
+
+<br>
+
+- Cloud Computing · Docker · Linux · Containers
+- Deployment · Arquitetura de sistemas distribuídos
+
+</details>
+
+<details>
+<summary><strong>📊 Data Analytics & Business Intelligence</strong></summary>
+
+<br>
+
+- Power BI · Power Query · DAX · Modelagem de dados
+- Dashboards · Visualização · Business Intelligence
+
+</details>
+
+<details>
+<summary><strong>🤖 Artificial Intelligence</strong></summary>
+
+<br>
+
+- IA com Python · Machine Learning · IA Generativa · RAG
+- ALPR · Chatbots · Automação inteligente · Processamento de dados
+
+</details>
+
+<details>
+<summary><strong>🧠 Software Engineering Fundamentals</strong></summary>
+
+<br>
+
+- Lógica · Algoritmos · POO · Modelagem de Sistemas
+- Arquitetura · Integração de APIs · Cloud Computing
+
+</details>
+
+---
+
+## 🎓 Formação Acadêmica
+
+| Instituição | Curso / Área | Status |
+|---|---|---|
+| 🎓 **Universidade Estácio de Sá** | Desenvolvimento Full Stack | Em andamento |
+| 🎓 **Centro Universitário São Camilo** | Filosofia | Em andamento |
+| 🎓 **Harvard — CS50** | Introduction to AI with Python | Em andamento |
+| 🐍 **SENAI** | Fundamentos em Python | Concluído |
+| 📊 **SENAI — Microsoft** | Power BI (Power Query · DAX · Modelagem) | Concluído |
+
+### Base acadêmica
+
+A formação proporciona uma evolução progressiva de fundamentos:
+
+| Etapa | Foco |
+|-------|------|
+| 🧠 | Pensamento Computacional |
+| 📐 | Lógica e Algoritmos |
+| 💻 | Programação |
+| 🐍 | Python |
+| 🗄️ | Banco de Dados |
+| 🔗 | Persistência de Dados |
+| 🌐 | Desenvolvimento Web |
+| ⚙️ | Engenharia de Software |
+| ☁️ | Cloud Computing |
+| 🚀 | Desenvolvimento Full Stack |
+
+> A formação em **Filosofia** complementa a trajetória tecnológica ao fortalecer **pensamento crítico, argumentação, análise lógica e raciocínio estruturado**.
+>
+> ---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Ferramentas de desenvolvimento
+
+| Categoria | Ferramentas |
+|-----------|-------------|
+| 💻 Editores | VS Code · PyCharm |
+| 🔧 Versionamento | Git · GitHub |
+| 🐳 Containers | Docker · Linux |
+| 🗄️ Bancos de dados | PostgreSQL · MySQL |
+| 📊 Análise | Power BI |
+| 🐍 Ambiente | Python Virtual Environments |
+
+---
+
+## 📈 Trajetória de Evolução
+
+| | Etapa | Foco |
+|---|---|---|
+| 🤖 | **Artificial Intelligence** | AI · ML · Generative AI · RAG · ALPR |
+| ☁️ | **Cloud & DevOps** | Docker · Linux · Deployment |
+| 🌐 | **Full Stack** | React · Web · APIs · Integração |
+| ⚙️ | **Backend** | Python · FastAPI · REST · WebSocket |
+| 🗄️ | **Databases** | PostgreSQL · MySQL · SQL |
+| 🧠 | **Foundations** | Algoritmos · Lógica · Programação |
+
+> Da base sólida em fundamentos até inteligência artificial — cada etapa construída sobre a anterior.
+>
+> ---
+
+## 📊 GitHub Analytics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+## 🌎 Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Técnico / Desenvolvimento |
+| 🇪🇸 Espanhol | Básico |
+
+---
+
+## 📫 Contato
+
+| Canal | Link |
+|-------|------|
+| 💼 **LinkedIn** | [anderson-ferreira-ananias](https://www.linkedin.com/in/anderson-ferreira-ananias-dev-uml-python-ia-gen-apis-postgresql-cloud-93b44235a/) |
+| 🐙 **GitHub** | [Anderson1280](https://github.com/Anderson1280) |
+| 📧 **Email** | undersomm@hotmail.com |
+| 🛰️ **SAT Tracker** | [sattracker.ia.br](https://sattracker.ia.br/) |
+
+---
+
+## 🧭 Foco Profissional
+
+Busco oportunidades em:
+
+`Python Development` · `Backend` · `Full Stack` · `Software Engineering` · `APIs` · `Cloud` · `Artificial Intelligence` · `Data Analytics` · `Business Intelligence` · `SaaS` · `Automação`
+
+---
+
+## 📚 Estudos Atuais
+
+| Área | Foco |
+|------|------|
+| ⚙️ Backend | Python · FastAPI · REST · WebSocket · Arquitetura |
+| 🗄️ Databases | PostgreSQL · SQL · Modelagem · Performance |
+| 🌐 Full Stack | React · JavaScript · Integração Front ↔ Back |
+| ☁️ Cloud | Docker · Linux · Deployment · Infraestrutura |
+| 🤖 AI | Machine Learning · Generative AI · RAG · AI Agents |
+
+---
+
+## 📖 Outro Projeto
+
+### 📘 Mente Leve, Vida Plena
+
+Livro de minha autoria publicado pela **Amazon KDP**.
+
+Projeto editorial independente que envolveu produção de conteúdo, organização, publicação digital e distribuição.
+
+---
+
+<p align="center">
+  <em>Learning continuously · Building real products · Solving real problems</em>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
+
