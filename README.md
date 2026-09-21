@@ -229,15 +229,16 @@ A formação proporciona uma evolução progressiva de fundamentos:
 >
 > ---
 
+---
+
 ## 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" alt="Top Languages" />
-</p>
+<a href="https://github.com/Anderson1280">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+</a>
+<a href="https://github.com/Anderson1280">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=dark&hide_border=true" />
+</a>
 
 ---
 
