@@ -227,15 +227,18 @@ A formação proporciona uma evolução progressiva de fundamentos:
 
 > Da base sólida em fundamentos até inteligência artificial — cada etapa construída sobre a anterior.
 >
-> ---
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<a href="https://github.com/Anderson1280">
+  <img src="https://nicholasgasior-github-readme-stats.vercel.app/api?username=Anderson1280&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Anderson1280">
+  <img src="https://nicholasgasior-github-readme-stats.vercel.app/api/top-langs/?username=Anderson1280&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</a>
 
 ---
 
